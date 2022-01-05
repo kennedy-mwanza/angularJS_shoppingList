@@ -1,0 +1,22 @@
+.card{
+    margin: auto;
+  width: 50%;
+  border-top: 50px;
+  margin-top: 50px;
+}
+#cancel{
+    float: right;
+}
+#cancel:hover{
+    cursor:pointer;
+}
+#inputi{
+    margin: 10px;
+}
+button{
+    width:100%;
+    margin-top: 10px;
+}
+.error{
+    color: red;
+}
